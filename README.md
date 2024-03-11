@@ -1,8 +1,5 @@
-# React + Vite
+# React Lecture: Component and Props
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resource Links: 
+* [Getting started with Vite](https://vitejs.dev/guide/)
+* [Real DOM vs Virtual DOM](https://medium.com/@itsanuragjoshi/mastering-react-understanding-real-dom-vs-virtual-dom-and-the-dom-update-process-78a233454ff8#:~:text=Real%20DOM%20vs%20Virtual%20DOM%3A%20A%20Side%2Dby%2DSide%20Comparison&text=Real%2FActual%2FBrowser%20DOM%3A,web%20page's%20structure%20in%20memory.)
