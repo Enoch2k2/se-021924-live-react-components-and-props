@@ -11,8 +11,19 @@ Agenda Topics:
   * Components are the parts of react that make up the UI which return JSX (html in javascript)
   * Components can have children components that it can pass information down to via props, The app component is usually the parent most component
   * Components can have functionality (will be covered in a later lecture)
-  
 
+* What is Vite?
+  * Because in 2023 create-react-app (CRA) was depricated and no longer maintained, Vite will be taking it's place for creating react applications.
+  * It's easy to use, but here are some differences for phase 2:
+    - Instead of `index.js` it's now called `main.jsx`
+    - All component files have jsx extensions instead of js
+    - To run the server, you type in `npm run vite` instead of `npm start`
+
+*** Snippet for creating a vite project ***
+
+```
+npm create vite@latest project-name-here -- --template react
+```
 
 Resource Links: 
 * [Getting started with Vite](https://vitejs.dev/guide/)
